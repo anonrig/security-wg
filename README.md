@@ -49,6 +49,7 @@ The program is managed through the HackerOne platform at [https://hackerone.com/
 
 ## Current Project Team Members
 
+* [anonrig](https://github.com/anonrig) - **Yagiz Nizipli**
 * [ChALkeR](https://github.com/ChALkeR) - **Сковорода Никита Андреевич**
 * [cjihrig](https://github.com/cjihrig) - **Colin Ihrig**
 * [DanielRuf](https://github.com/DanielRuf) - **Daniel Ruf**
